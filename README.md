@@ -1,2 +1,2 @@
 # bs-thesis
-Sentiment Analysis and Factuality classification on medical conversations on Medhelp.com forums.
+Sentiment Analysis and Factuality classification of medical conversations on Medhelp.com forums.
